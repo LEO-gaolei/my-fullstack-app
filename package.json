@@ -1,0 +1,7 @@
+{
+  "name": "my-fullstack-app",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy-client": "cd client && npm run deploy"
+  }
+}
